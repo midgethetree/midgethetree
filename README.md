@@ -2,7 +2,7 @@
 
 - 🎮 I make visual novels and other video games
 
-- 🔭 I’m currently working on **Otome Jam 2023**
+- 🔭 I’m currently working on **Dual Chroma**
 
 - 🌱 I’m currently learning **Unity**
 
